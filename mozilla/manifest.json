@@ -11,7 +11,10 @@
   },
   "browser_specific_settings": {
 	"gecko": {
-	  "id": "twitter_sensitive_media_loader@c33purr"
+	  "id": "twitter_sensitive_media_loader@c33purr",
+	  "data_collection_permissions": {
+        "required": ["none"]
+      }
 	}
   },
   "icons": {

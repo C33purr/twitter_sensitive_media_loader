@@ -11,4 +11,4 @@ Scroll a bit and the button should pop up, click on it and the medias should pop
 
 ## Mozilla
 
-Download twitter_sensitive_media_loader_mozilla.zip and install it on your browser (https://extensionworkshop.com/documentation/publish/install-self-distributed/ > Install add-on from file on a computer)
+Download twitter_sensitive_media_loader_mozilla.xpi and install it on your browser (https://extensionworkshop.com/documentation/publish/install-self-distributed/ > Install add-on from file on a computer)
