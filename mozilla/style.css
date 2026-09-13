@@ -1,0 +1,44 @@
+button.image-loader-button {
+    background-color: transparent;
+	color: rgb(113, 118, 123);
+    border-color: rgb(113, 118, 123);
+    font-family: 'TwitterChirp';
+    font-size: smaller;
+    border-radius: 1em;
+	margin-left: 1em;
+    border-style: solid;
+	cursor: pointer;
+}
+
+button.hidden-button {
+	display: none;
+}
+
+button.image-loader-button:hover {
+	color: rgb(29, 155, 250);
+    border-color: rgb(29, 155, 250);
+}
+
+div.loaded-images {
+	display: block;
+    padding-top: 1em;
+	padding-left: 4em;
+    padding-right: 1em;
+}
+
+.loaded-images > img,video {
+	bottom: 0px;
+    left: 0px;
+}
+
+.loaded-images > img {
+    width: 50%;
+}
+
+.loaded-images > img.only-image {
+	width: 100%;
+}
+
+.loaded-images > video {
+    width: 100%;
+}
