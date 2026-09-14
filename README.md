@@ -3,7 +3,7 @@ Chrome/Mozilla extension loading hidden sensitive medias of tweet using fxtwitte
 
 ## Chrome
 
-Download the project and load it using developer mode (https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
+Download the project and load the chrome folder using developer mode (https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
 
 You will need to click on the extension everytime you reload a page! Might change that later tho but it works rn sorry! :b
 
